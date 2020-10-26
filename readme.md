@@ -11,7 +11,7 @@ Primeiro passo, clonar o projeto:
 git clone https://github.com/gleidsonoliveiras/crud-laravel-vue.gitt
 
 # Acessar
-cd laravel-com-vue-exemplo
+cd crud-laravel-vue
 ```
 
 ## Configuração - Backend
